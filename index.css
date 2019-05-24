@@ -1,0 +1,19 @@
+.bg-img {
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  width: 100%;
+  height: 100%;
+}
+
+.bg-img-link-1 {
+  background-image: url('images/beach-camping-coast-176381.jpg');
+}
+
+.bg-img-link-2 {
+  background-image: url('images/architecture-buildings-cars-1269791.jpg');
+}
+
+.bg-img-link-3 {
+  background-image: url('images/activity-adventure-alps-551854.jpg');
+}
