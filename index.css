@@ -17,3 +17,9 @@
 .bg-img-link-3 {
   background-image: url('images/activity-adventure-alps-551854.jpg');
 }
+
+.img-covered {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
