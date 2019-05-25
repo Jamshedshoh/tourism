@@ -1,5 +1,5 @@
 ## Tourism Website using the Bootstrap template Carousel
-Link to https://getbootstrap.com/docs/4.3/examples/carousel/
+Link to the template https://getbootstrap.com/docs/4.3/examples/carousel/
 
 ## Image Sources
 * https://www.pexels.com/photo/orange-camping-tenet-near-body-of-water-during-daytime-176381/
